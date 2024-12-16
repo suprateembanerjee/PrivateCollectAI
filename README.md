@@ -1,0 +1,2 @@
+# PrivateCollectAI
+Sundai Hack project
